@@ -8,9 +8,6 @@ Dias da semana (Domingo a Sábado)
 
 Numeração correta dos dias do mês
 
-Destaque para finais de semana (opcional)
-
-Estilização responsiva (se aplicável)
 
 ## 💻 Tecnologias Utilizadas
 
